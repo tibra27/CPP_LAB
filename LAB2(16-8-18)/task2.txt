@@ -1,0 +1,9 @@
+1. Write a Program to sum of first n numbers using thread in C.
+2. Write a Program find factorial of a given number using thread in C.
+3. Write a Program to find max and min number in an array using threads in C.
+4. Take Student Information(Name , ID, Subject , Marks) from user and find the % of the student.
+5. Take Employee Information(Name, ID, Designation, Salary of last 5 years ) from user and find the
+% hike in salary of the employee using Thread and Mutex lock (use structure).
+6. Write a Program to calculate Prime numbers series and Fibonacci series for a given number
+using Thread and Mutex Lock.
+7. Write a Program to computes the total of the values of the matrix using thread in C.
